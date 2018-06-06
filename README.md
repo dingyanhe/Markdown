@@ -6,14 +6,15 @@
 
 <img align="center" src="./vim-web.gif">
 
-## 使用`TOC`来标识目录
+## `TOC`还没有搞懂什么情况
 <!-- TOC -->
-- 首页
-    - 导航
+- 标题1
+- 标题2
 <!-- /TOC -->
 
 
-## 使用`details`配合`summary`标签实现隐藏部分内容
+## 使用`details`配合`summary`标签实现隐藏部分内容:
+
 <details>
     <summary>开始你是看不到下面的内容的</summary>
     
